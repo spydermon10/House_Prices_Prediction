@@ -37,5 +37,5 @@ DATASET - (https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 ![INPUT](assets/input.png)
 
 - This screenshot shows the predicted pricing of the houses showing the fantastic accuracy
-![OUTPUT](assets/output.png)
+![OUTPUT](assets/realoutput.png)
 
